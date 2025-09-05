@@ -3,9 +3,9 @@ GAT360Final, game titled Head Out, is a Finals Project at Neumont College of Com
 Heads Out is a short puzzle game where you have to bring along your key to escaping, in a box, except you have to put the box down in order to free up hand space for puzzles!
 
 This game features:
-2-handed inventory management
-Classic 3D puzzle systems
-Beautifully crafted rooms to explore
+2-handed inventory management,
+Classic 3D puzzle systems,
+and Beautifully crafted rooms to explore
 
 This project was created in Unreal Engine with the use of 'Brutalist Architecture Office', 'Interaction System',
 and 'The Immersive Template' found on the Epic Store!
